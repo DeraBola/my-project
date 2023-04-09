@@ -21,7 +21,7 @@ export default function NavBar() {
           <li className='mt-6 text-lg leading-[18px] font-bold pl-5'><Link href='/Services'>SERVICES</Link></li>
           <li className='mt-6 text-lg leading-[18px] font-bold pl-5'><Link href='/Project'>PROJECTS</Link></li>
           <li className='mt-6 text-lg leading-[18px] font-bold pl-5'><Link href='/Nft'>NFT</Link></li>
-          <li className='mt-6 text-lg leading-[18px] font-bold pl-5'><Link href='/Faq'>FAQ</Link></li>
+          <li className='mt-6 text-lg leading-[18px] font-bold pl-5'><Link href='/Faqs'>FAQ</Link></li>
           <li className='mt-6 flex w-full justify-between items'>
           <p className='text-lg leading-[18px] font-bold pl-5 opacity-40'>PLATFORM</p>
           <p className='text-lg leading-[18px] font-bold pl-5 opacity-40 mr-2'>COMING SOON</p>
